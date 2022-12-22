@@ -22,6 +22,8 @@ I have worked on several side projects over the years. Some info about them is b
 ## Kore Tools (2022-Current)
 [Kore Tools](https://www.kore-tools.com/) is a developer tools platform built to help make software development faster. I felt that there was a gap in some core technologies that developers need to build scalable, reliable solutions to real-world problems. We started with the basics: Kore Cache is a distributed cache which you can setup and get started with in production in <5 minutes. My goal is to spread that ease of use and reliability to other areas of development in the future.
 
+Kore Tools is being built in public. You can read the trials and tribulations on the [KT blog](https://blog.kore-tools.com) or on [Twitter](https://twitter.com/koretools).
+
 ## OpenHouseTrader (2019-2020)
 In 2019, my wife and I co-founded OpenHouseTrader. OHT was a SaaS marketplace intended to be used by real estate brokerages to swap open house appointments with other realtors at the same brokerage. Unfortunately, our timing couldn't have been worse and the COVID-19 pandemic started just before our closed beta began. We weren't sure how long the pandemic would last, so we cut our losses and moved on from OpenHouseTrader.
 
