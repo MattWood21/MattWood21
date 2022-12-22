@@ -22,7 +22,7 @@ I have worked on several side projects over the years. Some info about them is b
 ## Kore Tools (2022-Current)
 Towards the end of 2022 I solo-founded [Kore Tools](https://www.kore-tools.com/), a developer tools platform built to help make software development faster. I felt that there was a gap in some core technologies that developers need to build scalable, reliable solutions to real-world problems. 
 
-I started with the basics: I am self-bootstrapping, in an indie hacker style, a product called [Kore Cache](https://blog.kore-tools.com/blog/20221108_AnnouncingKoreCache). Kore Cache is a distributed cache which you can setup and get started with in production in <5 minutes. My goal is to spread that ease of use and reliability to other areas of development in the future.
+I started with the basics: I am self-bootstrapping, in an indie hacker style, a product called [Kore Cache](https://blog.kore-tools.com/blog/20221108_AnnouncingKoreCache). Kore Cache is a distributed cache which you can setup and get started with in production in <5 minutes. My goal is to spread that ease of use and reliability to other areas of development in the future. I want people to be able to leverage core technologies in a few minutes without having to sell their souls, customer data or life savings to Amazon, Google or Facebook for the pleasure of doing so.
 
 Kore Tools is being built in public. You can read the trials and tribulations on the [KT blog](https://blog.kore-tools.com) or on [Twitter](https://twitter.com/koretools).
 
