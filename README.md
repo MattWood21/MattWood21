@@ -36,7 +36,7 @@ This project uses a bunch of technologies in a microservice-style architecture. 
 ## OpenHouseTrader (2019-2020)
 <img src="https://cdn.midjourney.com/a21ff3b2-22f4-40b5-8bb4-222c2a676581/grid_0.png" width=280 alt="Midjourney Rendering of OpenHouseTrader logo" />
 
-In 2019, my wife and I co-founded OpenHouseTrader. OHT was a SaaS marketplace intended to be used by real estate brokerages to swap open house appointments with other realtors at the same brokerage. Unfortunately, our timing couldn't have been worse and the COVID-19 pandemic started just before our closed beta began. We weren't sure how long the pandemic would last, so we cut our losses and moved on from OpenHouseTrader.
+In 2019, my wife and I co-founded OpenHouseTrader. OHT was a SaaS marketplace intended to be used by real estate brokerages to swap open house appointments with other realtors at the same brokerage. Unfortunately, our timing couldn't have been worse and the COVID-19 pandemic started just before our closed beta began. We weren't sure how long the pandemic would last, so we cut our losses and moved on from OpenHouseTrader after 3 months of building.
 
 This project was built with C#, .Net Core, Angular and Bootstrap.
 
