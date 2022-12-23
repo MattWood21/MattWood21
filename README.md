@@ -6,6 +6,7 @@ I'm a father of three, husband, and senior software engineer. I have a lot of in
 I've worked in tech in Vancouver, British Columbia, Canada since 2011. The first five years of my career were spent in Technical Support, the majority of which was in enterprise B2B software focused on endpoint security. In 2016, I changed disciplines and started focusing on software engineering and leadership.
 
 # Links
+<img src="https://cdn.midjourney.com/427a6def-5f5a-4857-9d3d-859a6e15c832/grid_0.png" width=280 alt="Midjourney Rendering of My Socials" />
 You can find some of my relevant links in the list below:
 
 - [Twitter](https://twitter.com/mattwoodtech)
