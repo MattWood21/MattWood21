@@ -31,7 +31,7 @@ I started with the basics: I am self-bootstrapping, in an indie hacker style, a 
 
 Kore Tools is being built in public. You can read the trials and tribulations on the [KT blog](https://blog.kore-tools.com) or on [Twitter](https://twitter.com/koretools).
 
-This project uses a bunch of technologies in a microservice-style architecture. I'll blog more about it, but it's primarily built with C# and .Net 6, as well as TypeScript, NextJS and Tailwind.
+This project uses a bunch of technologies in a microservice-style architecture. I'll blog more about it, but it's primarily built with C# and .Net 6, backed by a PostgreSQL data store, and TypeScript, NextJS and Tailwind for frontend work.
 
 ## OpenHouseTrader (2019-2020)
 <img src="https://cdn.midjourney.com/a21ff3b2-22f4-40b5-8bb4-222c2a676581/grid_0.png" width=280 alt="Midjourney Rendering of OpenHouseTrader logo" />
