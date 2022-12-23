@@ -1,4 +1,4 @@
-<img src="https://cdn.midjourney.com/8c59168a-d8b9-420a-935c-b8dacd6a7443/grid_0.png" width=280 alt="Midjourney Rendering of Me" />
+<img src="https://cdn.midjourney.com/8c59168a-d8b9-420a-935c-b8dacd6a7443/grid_0.png" width=280 alt="Midjourney Rendering of My Workspace" />
 
 # Hi, I'm Matt!
 I'm a father of three, husband, and senior software engineer. I have a lot of interests, but I primarily take interest in the topics of technology, science, parenting, software engineering, leadership, business management, entrepreneurship, and gaming!
