@@ -15,7 +15,7 @@ You can find some of my relevant links in the list below:
 # Work
 <img src="https://cdn.midjourney.com/ab928b5a-86b6-4928-8607-0ce01f78c32d/grid_0.png" width=280 alt="Midjourney Rendering of POF logo" />
 
-I'm currently working as a Senior Software Engineer and Tech Lead for Monetization at [Plenty of Fish](https://pof.com) and [Match Group](https://mtch.com/). I also help support Platform and Payments squads in my day-to-day function. I joined POF in January 2022.
+I'm currently working as an Engineering Team Lead at [Plenty of Fish](https://pof.com) and [Match Group](https://mtch.com/). I also help support Platform and Payments squads in my day-to-day function. I joined POF in January 2022.
 
 I have a strong track record as a customer focused software engineer. I've also worked the last few years to build my strengths in software engineering leadership and business operations more generally. My specialty lies in building stable, sustainable software engineering culture and practices, and providing a supportive work environment for people of all types to thrive in and be successful.
 
