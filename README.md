@@ -37,6 +37,4 @@ Internal tool I built at [Absolute](https://absolute.com) for job scheduling and
 Data Exporter was built with C# and .Net Framework (it just missed the boat on .Net Core and we had no need yet to port it), and backed by PostgreSQL as its primary data store (though it had integration points into many data stores to support various job types). At the time that I left Absolute, Data Exporter had executed more than 1.5 million jobs in its lifetime and managed over 250 active internal and customer jobs. It was originally intended to run 1 job for 1 customer and then... Kinda just organically went crazy and took over most of our automated/scheduled workload.
 
 ## Quick Query (2014-2021)
-<img src="https://cdn.midjourney.com/e0181891-7238-4b94-afa2-bc7477ce9a93/grid_0.png" width=280 alt="Midjourney Rendering of Quick Query logo" />
-
 Another internal tool I built at [Absolute](https://absolute.com) for querying and displaying data. I built this as part of my work, but I'll count it as a side project. It was one of the projects that justified and allowed me to switch into Software Engineering in 2016. It was built in VB.Net and SQL Server, with SQLite for usage tracking and integrations with REST APIs to collect next generation service data.
