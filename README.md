@@ -10,9 +10,9 @@ You can find some of my relevant links in the list below:
 - [LinkedIn](www.linkedin.com/in/matt-wood-40380550)
 
 # Work
-I'm currently working as an Engineering Team Lead for Monetization at [Plenty of Fish](https://pof.com) and [Match Group](https://mtch.com/). I also help support Platform and Payments squads in my day-to-day function. I joined POF in January 2022.
+I'm currently working as an Engineering Manager at [Plenty of Fish](https://pof.com) and [Match Group](https://mtch.com/). I joined the POF brand at Match Group in January 2022.
 
-I have a strong track record as a customer focused software engineer. I've also worked the last few years to build my strengths in software engineering leadership and business operations more generally. My specialty lies in building stable, sustainable software engineering culture and practices, and providing a supportive work environment for people of all types to thrive in and be successful.
+I have a strong track record as a builder and leader of teams that build platform services, payments systems, monetization and other domains.
 
 # Side Projects
 I have worked on several side projects over the years. Some info about them is below.
