@@ -8,4 +8,7 @@ I'm currently working as an Engineering Manager at [Plenty of Fish](https://pof.
 I have a strong track record as a builder and leader of software development teams. My recent work includes Trust and Safety, Monetization, Payments, and Platform Services.
 
 # Active Side Projects
+- Quest Central (https://www.questcentral.ca/ and https://app.questcentral.ca/)
+
+# Inactive / Archived Projects
 - [Kore Tools](https://www.kore-tools.com/): Developer tools platform built to help make software development faster.
