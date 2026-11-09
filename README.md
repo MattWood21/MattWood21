@@ -1,14 +1,13 @@
-# Links
-- [Twitter](https://twitter.com/mattwoodtech)
-- [LinkedIn](www.linkedin.com/in/matt-wood-40380550)
+## Links
+- [LinkedIn](https://www.linkedin.com/in/matt-wood-tech)
 
-# Work
-I'm currently working as an Engineering Manager at [Plenty of Fish](https://pof.com) / [Match Group](https://mtch.com/). I joined the POF brand at Match Group in January 2022.
+## Work
+Engineering manager with 10+ years building software and 6+ years leading teams.
 
-I have a strong track record as a builder and leader of software development teams. My recent work includes Trust and Safety, Monetization, Payments, and Platform Services.
+Most recently **Engineering Manager II at Match Group** (2022–2026), managing full-stack Trust & Safety teams for Plenty of Fish, OkCupid, Match.com, Meetic and other brands. Before that I led payments and growth work on Plenty of Fish. Earlier: Absolute Software (2016–2022).
 
-# Active Projects
-- Quest Central (https://www.questcentral.ca/ and https://app.questcentral.ca/): Co-founded this board game lounge, leading the technical elements of the business. Custom built internal and public applications that manage the lounge, games and more.
+## Active projects
+- **Quest Central** ([site](https://www.questcentral.ca/) · [app](https://app.questcentral.ca/)): co-founded this board game lounge and built the internal and public apps that run it.
 
-# Inactive / Archived Projects
-- [Kore Tools](https://www.kore-tools.com/): Developer tools platform built to help make software development faster.
+## Archived
+- **[Kore Tools]**: developer tools platform to speed up software development.
